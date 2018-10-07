@@ -4,6 +4,7 @@
 <?php
 	include "include/head.php";
 ?>
+<link href="css/python.css" rel="stylesheet">
 </head>
 <body>
 
