@@ -6,11 +6,14 @@
 ?>
 </head>
 <body>
-
+<nav>
+	<a href = "#git">git начало</a>
+	<a href = "#commit">Commit</a></nav>
+	
 <?php
     include "../include/header.html";
-    include "../include/startToGit.html";
-    include "../include/gitcommit.html";
+    include "../include/git/startToGit.html";
+    include "../include/git/gitcommit.html";
 ?>
 
 </body>
