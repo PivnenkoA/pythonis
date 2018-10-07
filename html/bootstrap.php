@@ -6,18 +6,23 @@
 ?>
 </head>
 <body>
-
-<?php
-    include "../include/header.html";
-    include "../include/bootstrap/bootstrapnav.html";
-?>
 <div class ="container">
-<?php
-    include "../include/bootstrap/introbs.html";
-    include "../include/bootstrap/firstclass.html";
+	<div class = "row">
+		<div class = "col-lg-3 ">
+			<?php
+				include "../include/header.html";
+			?>
+		</div>
 
-?>
+	<div class = "col-lg-9 ">
+	<?php
+		include "../include/bootstrap/bootstrapnav.html";
+		include "../include/bootstrap/introbs.html";
+		include "../include/bootstrap/firstclass.html";
+	?>
 
-<a href = "#nav">На верх</a>
+	<a href = "#nav">На верх</a>
+	</div>
+	</div>
 </div>
 </body>

@@ -1,7 +1,10 @@
 body{
-	background:#000000;
+	background:#4D4D4D;
 	color:#2FB916;
 }
 code{
 	color:#ffffff;
+}
+.container {
+	background:#000000;
 }
