@@ -10,8 +10,14 @@
 <?php
     include "../include/header.html";
     include "../include/bootstrap/bootstrapnav.html";
+?>
+<div class ="container">
+<?php
     include "../include/bootstrap/introbs.html";
+    include "../include/bootstrap/firstclass.html";
 
 ?>
+
 <a href = "#nav">На верх</a>
+</div>
 </body>
