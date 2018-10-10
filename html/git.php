@@ -13,7 +13,7 @@
 					include "../include/header.html";
 				?>
 			</div>
-			<div class = "col-lg-9 ">
+			<div class = "col-lg-8 ">
 				<?php
 					include "../include/git/gitnav.html";
 					include "../include/git/startToGit.html";
